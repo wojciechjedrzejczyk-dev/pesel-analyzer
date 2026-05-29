@@ -1,4 +1,4 @@
-* PESEL Analyzer *
+PESEL Analyzer
 
 Prosty program konsolowy napisany w Pythonie służący do analizy numeru PESEL.
 
