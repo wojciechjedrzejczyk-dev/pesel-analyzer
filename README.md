@@ -16,7 +16,7 @@ Technologie:
 
 Jak uruchomić program?
 1. Pobierz projekt
-2. Uruchom plik `.py` w interpreterze Python
+2. Uruchom plik `pesel analyzer.py` w interpreterze Python
 
 
 Przykładowe działanie:
